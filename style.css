@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+body{
+  background-color:#F1F2FF;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+ul{
+  margin: 0;
+  padding: 0;
+  background-color:lightblue;
+  height: 50px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  border-radius: 10px;
+  
+}
+
+li{
+  display: inline;
+  position: relative;
+  left: 50px;
+  left: -10px;
+  left: 15px;
+  padding: 10px;
+  margin: 5px 10px;
+  top: 10px;
+  font-family: 'Nanum Gothic', sans-serif;
+  top: 15px;
+  
+}
+li:hover{
+  border-radius: 10px;
+  background: none;
+  color: none;
+  border: 1px solid #606060;
+  transition: 0.9s;
+}
+
+
+
+
+
+img {
+  position: relative;
+  top: 75px;
+  left: 65px;
+  border-radius: 10px;
+  top: -0px;
+}
+
+h1{
+   font-family: 'Nanum Gothic', sans-serif;
+}
+
+
+a{
+  text-decoration: none;
+  color: black;
+  
+}
+
+
+.img{
+  border: 3px solid white;
+  position: relative;
+  top: 30px;
+  background: black;
+  color: white;
+  border-radius: 30px;
+}
+
+.text{
+    font-family: 'Nanum Gothic', sans-serif;
+    position: relative;
+    left: 5px;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.img1{
+border: 3px solid white;
+position: relative;
+top: 30px;
+background: black;
+color: white;
+border-radius: 30px;
+top: 85px;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+h2
+{
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.text1{
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+  font-size: 15px;
+}
+
+.img2{
+border: 3px solid white;
+position: relative;
+top: 30px;
+background: black;
+color: white;
+border-radius: 30px;
+top: 160px;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.text2{
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+  font-size: 15px;
+  position: relative;
+  left: 5px;
+}
+
+h3{
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+
+
+.http {
+  color: white;
+  font-family: 'Nanum Gothic', sans-serif;
+  position: relative;
+  left: 40px;
+}
+
+span{
+  position: relative;
+  left: 40px;
+}
+
+.insta{
+  position: relative;
+  top: 195px;
+  left: -10px;
+  left: 40px;
+}
+
+.span{
+  color: black;
+  position: relative;
+  top: 185px;
+  font-family: 'Nanum Gothic', sans-serif;
+  letter-spacing: 5px;
+}
+
+.diven{
+  position: absolute;
+  left: 80px;
+}
+
+
+
+
+
+
+
+
+button{
+  position: relative;
+  top: 50px;
+  left: 145px;
+}
+
+#saqa{
+  overflow:hidden;
+}
+
+#rasa{
+  position: relative;
+  top: 110px;
+}
+
+#rasaer{
+  position: relative;
+  top: 180px;
+}
